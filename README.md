@@ -16,7 +16,6 @@ MERN E-Commerce Website Tutorial 2024
 - [Scripts](#scripts)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 A full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js). This project demonstrates a basic online store with product management, shopping cart, and admin dashboard. It is designed for learning and as a boilerplate for new e-commerce projects.
@@ -127,6 +126,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
